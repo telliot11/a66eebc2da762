@@ -6,7 +6,7 @@
     <atom:link href="https://telliot11.github.io/a66eebc2da762/15deda5c4650ccaa5989a371/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Private audio briefings and talks made by Elliot White&apos;s Grok Bots. Non-sensitive content only.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 28 Oct 2026 06:34:19 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 28 Oct 2026 11:59:20 +0000</lastBuildDate>
     <itunes:summary>Private audio briefings and talks made by Elliot White&apos;s Grok Bots. Non-sensitive content only.</itunes:summary>
     <itunes:author>Elliot&apos;s Grok Bots</itunes:author>
     <itunes:image href="https://telliot11.github.io/a66eebc2da762/15deda5c4650ccaa5989a371/cover.png"/>
@@ -14,6 +14,19 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
+    <item>
+      <title>BuildingMinds: what customers want and how to sell it (Ada, re-recorded)</title>
+      <description>What customers want from BuildingMinds plus Lookthrough, and how to sell a first deal. Re-recorded slower in a new voice.</description>
+      <itunes:summary>What customers want from BuildingMinds plus Lookthrough, and how to sell a first deal. Re-recorded slower in a new voice.</itunes:summary>
+      <itunes:author>Ada</itunes:author>
+      <itunes:image href="https://telliot11.github.io/a66eebc2da762/15deda5c4650ccaa5989a371/cover.png"/>
+      <guid isPermaLink="false">6c1ed033-d900-4525-a14e-1f94ad3129cb</guid>
+      <pubDate>Wed, 28 Oct 2026 11:59:20 +0000</pubDate>
+      <enclosure url="https://telliot11.github.io/a66eebc2da762/15deda5c4650ccaa5989a371/20261028-1159-ada-buildingminds-what-customers-want-and-how-to-sell-it-ada-re-.mp3" length="26847651" type="audio/mpeg"/>
+      <itunes:duration>00:27:58</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>BuildingMinds: what customers want and how to sell it (Ada)</title>
       <description>Ada&apos;s talk on what BuildingMinds customers want and how to sell it.</description>

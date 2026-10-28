@@ -9,5 +9,16 @@
     "length": 5795280,
     "duration": 966,
     "source_path": "/workspace/ada-audio/buildingminds-sales-talk.mp3"
+  },
+  {
+    "title": "BuildingMinds: what customers want and how to sell it (Ada, re-recorded)",
+    "bot": "Ada",
+    "description": "What customers want from BuildingMinds plus Lookthrough, and how to sell a first deal. Re-recorded slower in a new voice.",
+    "guid": "6c1ed033-d900-4525-a14e-1f94ad3129cb",
+    "pubDate_iso": "2026-10-28T11:59:20+00:00",
+    "url": "https://telliot11.github.io/a66eebc2da762/15deda5c4650ccaa5989a371/20261028-1159-ada-buildingminds-what-customers-want-and-how-to-sell-it-ada-re-.mp3",
+    "length": 26847651,
+    "duration": 1678,
+    "source_path": "/workspace/ada-audio/buildingminds-sales-talk-v2.mp3"
   }
 ]
