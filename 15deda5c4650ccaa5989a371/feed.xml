@@ -6,7 +6,7 @@
     <atom:link href="https://telliot11.github.io/a66eebc2da762/15deda5c4650ccaa5989a371/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Private audio briefings and talks made by Elliot White&apos;s Grok Bots. Non-sensitive content only.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 28 Oct 2026 11:59:20 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 28 Oct 2026 11:59:32 +0000</lastBuildDate>
     <itunes:summary>Private audio briefings and talks made by Elliot White&apos;s Grok Bots. Non-sensitive content only.</itunes:summary>
     <itunes:author>Elliot&apos;s Grok Bots</itunes:author>
     <itunes:image href="https://telliot11.github.io/a66eebc2da762/15deda5c4650ccaa5989a371/cover.png"/>
@@ -24,19 +24,6 @@
       <pubDate>Wed, 28 Oct 2026 11:59:20 +0000</pubDate>
       <enclosure url="https://telliot11.github.io/a66eebc2da762/15deda5c4650ccaa5989a371/20261028-1159-ada-buildingminds-what-customers-want-and-how-to-sell-it-ada-re-.mp3" length="26847651" type="audio/mpeg"/>
       <itunes:duration>00:27:58</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-      <itunes:episodeType>full</itunes:episodeType>
-    </item>
-    <item>
-      <title>BuildingMinds: what customers want and how to sell it (Ada)</title>
-      <description>Ada&apos;s talk on what BuildingMinds customers want and how to sell it.</description>
-      <itunes:summary>Ada&apos;s talk on what BuildingMinds customers want and how to sell it.</itunes:summary>
-      <itunes:author>Ada</itunes:author>
-      <itunes:image href="https://telliot11.github.io/a66eebc2da762/15deda5c4650ccaa5989a371/cover.png"/>
-      <guid isPermaLink="false">7a3d6f0e-buildingminds-ada-20261027</guid>
-      <pubDate>Tue, 27 Oct 2026 07:07:00 +0000</pubDate>
-      <enclosure url="https://telliot11.github.io/a66eebc2da762/15deda5c4650ccaa5989a371/2026-10-27-ada-buildingminds-sales-talk.mp3" length="5795280" type="audio/mpeg"/>
-      <itunes:duration>00:16:06</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
