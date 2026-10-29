@@ -6,7 +6,7 @@
     <atom:link href="https://telliot11.github.io/a66eebc2da762/15deda5c4650ccaa5989a371/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Private audio briefings and talks made by Elliot White&apos;s Grok Bots. Non-sensitive content only.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 28 Oct 2026 11:59:32 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 29 Oct 2026 06:41:09 +0000</lastBuildDate>
     <itunes:summary>Private audio briefings and talks made by Elliot White&apos;s Grok Bots. Non-sensitive content only.</itunes:summary>
     <itunes:author>Elliot&apos;s Grok Bots</itunes:author>
     <itunes:image href="https://telliot11.github.io/a66eebc2da762/15deda5c4650ccaa5989a371/cover.png"/>
@@ -14,6 +14,19 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
+    <item>
+      <title>Your first BuildingMinds sales call: a practice run</title>
+      <description>A practice run of a first sales call for the BuildingMinds and Lookthrough offer: how to open, what to ask, how to handle common objections, and how to close on a next step.</description>
+      <itunes:summary>A practice run of a first sales call for the BuildingMinds and Lookthrough offer: how to open, what to ask, how to handle common objections, and how to close on a next step.</itunes:summary>
+      <itunes:author>Sophia</itunes:author>
+      <itunes:image href="https://telliot11.github.io/a66eebc2da762/15deda5c4650ccaa5989a371/cover.png"/>
+      <guid isPermaLink="false">f3650c45-cb71-4b49-98db-a620d12dddea</guid>
+      <pubDate>Thu, 29 Oct 2026 06:41:09 +0000</pubDate>
+      <enclosure url="https://telliot11.github.io/a66eebc2da762/15deda5c4650ccaa5989a371/20261029-0641-sophia-your-first-buildingminds-sales-call-a-practice-run.mp3" length="14501972" type="audio/mpeg"/>
+      <itunes:duration>00:15:06</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>BuildingMinds: what customers want and how to sell it (Ada, re-recorded)</title>
       <description>What customers want from BuildingMinds plus Lookthrough, and how to sell a first deal. Re-recorded slower in a new voice.</description>

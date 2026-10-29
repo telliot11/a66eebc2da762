@@ -9,5 +9,16 @@
     "length": 26847651,
     "duration": 1678,
     "source_path": "/workspace/ada-audio/buildingminds-sales-talk-v2.mp3"
+  },
+  {
+    "title": "Your first BuildingMinds sales call: a practice run",
+    "bot": "Sophia",
+    "description": "A practice run of a first sales call for the BuildingMinds and Lookthrough offer: how to open, what to ask, how to handle common objections, and how to close on a next step.",
+    "guid": "f3650c45-cb71-4b49-98db-a620d12dddea",
+    "pubDate_iso": "2026-10-29T06:41:09+00:00",
+    "url": "https://telliot11.github.io/a66eebc2da762/15deda5c4650ccaa5989a371/20261029-0641-sophia-your-first-buildingminds-sales-call-a-practice-run.mp3",
+    "length": 14501972,
+    "duration": 906,
+    "source_path": "/workspace/podcast-ep2/first-sales-call.mp3"
   }
 ]
